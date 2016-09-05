@@ -74,24 +74,7 @@ a:visited {
     <h2>$title</h2>
 </div>
 
-<div id="menu">
 
-
-    <h2>Info</h2>
-    <ul>
-    <li>Version: @WIFIDOG_VERSION@
-
-    <li>Node ID: $nodeID
-    </ul>
-    <br>
-
-    <h2>Menu</h2>
-    <ul>
-    <li><a href='/wifidog/status'>WiFiDog Status</a>
-    <li><a href='/wifidog/about'>About WiFiDog</a>
-    <li><a href='http://www.wifidog.org'>WiFiDog's homepage</a>
-    </ul>
-</div>
 
 <div id="content">
 <h2>$message</h2>
